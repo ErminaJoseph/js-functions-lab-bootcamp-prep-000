@@ -3,7 +3,7 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(string){
-  if (happyHolidaysTo(string) === 'you'){
+  if (happyHolidaysTo(name) === 'you'){
   return 'Happy Holidays, ${name}'
   }
 }
